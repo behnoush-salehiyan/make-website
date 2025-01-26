@@ -75,3 +75,11 @@ div > img {
     gap: 2rem;
   }
 }
+@media (max-width: 1100px) {
+  input[type="search"] {
+    display: none;
+  }
+  header {
+    height: 50px;
+  }
+}

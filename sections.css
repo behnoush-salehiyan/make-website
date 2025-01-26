@@ -76,4 +76,10 @@ table th {
     align-content: start;
     gap: 2rem;
   }
+  input[type="search"] {
+    display: none;
+  }
+  header {
+    height: 50px;
+  }
 }
